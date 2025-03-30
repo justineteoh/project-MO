@@ -27,7 +27,10 @@
     {
         "David Jones": {
             "url": "https://www.davidjones.com/Product/27198215?istCompanyId=b6536b70-91e9-4c52-9224-1c646dedac60&istFeedId=7dd882d0-5c57-4fe5-a39d-daa76e85452e&istItemId=qiplmpltq&istBid=t&utm_content=paidsearch&gad_source=1&gclid=Cj0KCQjwtJ6_BhDWARIsAGanmKcsMNgQCHYH3HyoO5uiYoaJpikTmMYiNlKbMmwzOSzRw2s5bB1DdIcaAvacEALw_wcB&gclsrc=aw.ds",
-            "price class": "price-display"
+            "price class": "price-display", 
+            "search attr": { 
+                "itemprop": "price"
+            }
         },
 
         "The Good Guys": {
